@@ -1,0 +1,19 @@
+https://api.imatrix.io/api/doc/
+https://redux-ui.imatrix.io/login
+https://www.agrowtronics.com/
+
+npm i -D localstorage-polyfill
+OR
+yarn add -D localstorage-polyfill
+
+
+https://github.com/geelen/react-snapshot/issues/40
+In your App's index.js file add following:
+import 'localstorage-polyfill'
+
+
+flash message
+https://www.npmjs.com/package/react-native-flash-message
+
+Keyboard
+https://github.com/APSL/react-native-keyboard-aware-scroll-view
